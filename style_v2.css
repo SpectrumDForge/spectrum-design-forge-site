@@ -1,8 +1,8 @@
 body {
   margin: 0;
   font-family: 'Segoe UI', sans-serif;
-  background: linesr-gradient(180deg, #111111, #1a0000);
-  color: brass;
+  background: linear-gradient(180deg, #111111, #1a0000);
+  color: gold;
   text-align: center;
 }
 
